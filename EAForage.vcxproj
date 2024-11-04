@@ -154,7 +154,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="EAForage.cpp" />
+    <ClCompile Include="task4.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="VideoGameDevCareerHeaders.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
